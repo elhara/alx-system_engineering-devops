@@ -1,2 +1,2 @@
 #!/bin/bash
-Chown -h Vincent:staff * _hello
+chown -h betty:school _hello
